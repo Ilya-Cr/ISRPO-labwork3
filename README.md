@@ -1,6 +1,6 @@
 # my-first-extension-binstep README
 
-This is the README for extension "my-first-extension-binstep".
+This is the README for extension "my-first-extension-binstep".\
 Выполнил: Лысый Илья Владимирович М3113
 
 ## Features
